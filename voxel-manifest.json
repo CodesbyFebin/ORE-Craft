@@ -1,0 +1,198 @@
+{
+  "collection": "voxel",
+  "count": 24,
+  "sources": [
+    {
+      "owner": "simondevyoutube",
+      "name": "MinecraftClone",
+      "category": "17-web-voxel-gameplay",
+      "clone_url": "https://github.com/simondevyoutube/MinecraftClone.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "dgreenheck",
+      "name": "minecraft-threejs-clone",
+      "category": "17-web-voxel-gameplay",
+      "clone_url": "https://github.com/dgreenheck/minecraft-threejs-clone.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "vyse12138",
+      "name": "minecraft-threejs",
+      "category": "17-web-voxel-gameplay",
+      "clone_url": "https://github.com/vyse12138/minecraft-threejs.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "simondevyoutube",
+      "name": "Quick_MinecraftClone2",
+      "category": "17-web-voxel-gameplay",
+      "clone_url": "https://github.com/simondevyoutube/Quick_MinecraftClone2.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "Overv",
+      "name": "WebCraft",
+      "category": "17-web-voxel-gameplay",
+      "clone_url": "https://github.com/Overv/WebCraft.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "fogleman",
+      "name": "Craft",
+      "category": "20-voxel-assets-reference",
+      "clone_url": "https://github.com/fogleman/Craft.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "fenomas",
+      "name": "noa",
+      "category": "17-web-voxel-gameplay",
+      "clone_url": "https://github.com/fenomas/noa.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "voxelize",
+      "name": "voxelize",
+      "category": "18-voxel-engines-worlds",
+      "clone_url": "https://github.com/voxelize/voxelize.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "max-mapper",
+      "name": "voxel-engine",
+      "category": "17-web-voxel-gameplay",
+      "clone_url": "https://github.com/max-mapper/voxel-engine.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "Divine-Star-Software",
+      "name": "DivineVoxelEngine",
+      "category": "18-voxel-engines-worlds",
+      "clone_url": "https://github.com/Divine-Star-Software/DivineVoxelEngine.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "Zylann",
+      "name": "godot_voxel",
+      "category": "18-voxel-engines-worlds",
+      "clone_url": "https://github.com/Zylann/godot_voxel.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "MihailRis",
+      "name": "voxelcore",
+      "category": "18-voxel-engines-worlds",
+      "clone_url": "https://github.com/MihailRis/voxelcore.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "Zylann",
+      "name": "voxelgame",
+      "category": "18-voxel-engines-worlds",
+      "clone_url": "https://github.com/Zylann/voxelgame.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "PrismarineJS",
+      "name": "flying-squid",
+      "category": "19-voxel-servers-worldgen",
+      "clone_url": "https://github.com/PrismarineJS/flying-squid.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "VoxelSrv",
+      "name": "voxelsrv",
+      "category": "19-voxel-servers-worldgen",
+      "clone_url": "https://github.com/VoxelSrv/voxelsrv.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "PolyhedralDev",
+      "name": "Terra",
+      "category": "19-voxel-servers-worldgen",
+      "clone_url": "https://github.com/PolyhedralDev/Terra.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "vengi-voxel",
+      "name": "vengi",
+      "category": "20-voxel-assets-reference",
+      "clone_url": "https://github.com/vengi-voxel/vengi.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "VoxeLibre",
+      "name": "VoxeLibre",
+      "category": "20-voxel-assets-reference",
+      "clone_url": "https://github.com/VoxeLibre/VoxeLibre.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "Lallassu",
+      "name": "voxelengine3",
+      "category": "18-voxel-engines-worlds",
+      "clone_url": "https://github.com/Lallassu/voxelengine3.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "jrenner",
+      "name": "kotlin-voxel",
+      "category": "18-voxel-engines-worlds",
+      "clone_url": "https://github.com/jrenner/kotlin-voxel.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "Hopson97",
+      "name": "MineCraft-One-Week-Challenge",
+      "category": "20-voxel-assets-reference",
+      "clone_url": "https://github.com/Hopson97/MineCraft-One-Week-Challenge.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "TanTanDev",
+      "name": "first_voxel_engine",
+      "category": "18-voxel-engines-worlds",
+      "clone_url": "https://github.com/TanTanDev/first_voxel_engine.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "sciner",
+      "name": "webcraft",
+      "category": "17-web-voxel-gameplay",
+      "clone_url": "https://github.com/sciner/webcraft.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    },
+    {
+      "owner": "swr06",
+      "name": "Minecraft",
+      "category": "20-voxel-assets-reference",
+      "clone_url": "https://github.com/swr06/Minecraft.git",
+      "status": "NOT_CLONED",
+      "source_query": "voxel minecraft / voxel engine / minecraft clone"
+    }
+  ]
+}
