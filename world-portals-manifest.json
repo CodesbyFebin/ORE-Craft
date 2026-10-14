@@ -1,0 +1,47 @@
+{
+  "collection": "world-portals",
+  "count": 5,
+  "notes": "Independent references: no code copied into the portal game build. Review source licenses before any reuse.",
+  "sources": [
+    {
+      "owner": "Exotic209093",
+      "name": "ExoCraft",
+      "category": "21-world-biomes",
+      "clone_url": "https://github.com/Exotic209093/ExoCraft.git",
+      "status": "NOT_CLONED",
+      "reference_only": true
+    },
+    {
+      "owner": "Xollonox",
+      "name": "Minecraft",
+      "category": "21-world-biomes",
+      "clone_url": "https://github.com/Xollonox/Minecraft.git",
+      "status": "NOT_CLONED",
+      "reference_only": true
+    },
+    {
+      "owner": "iPortalTeam",
+      "name": "ImmersivePortalsMod",
+      "category": "22-portal-reference",
+      "clone_url": "https://github.com/iPortalTeam/ImmersivePortalsMod.git",
+      "status": "NOT_CLONED",
+      "reference_only": true
+    },
+    {
+      "owner": "mangobanaani",
+      "name": "voxelworld",
+      "category": "21-world-biomes",
+      "clone_url": "https://github.com/mangobanaani/voxelworld.git",
+      "status": "NOT_CLONED",
+      "reference_only": true
+    },
+    {
+      "owner": "ariel-nathan",
+      "name": "mineclone",
+      "category": "21-world-biomes",
+      "clone_url": "https://github.com/ariel-nathan/mineclone.git",
+      "status": "NOT_CLONED",
+      "reference_only": true
+    }
+  ]
+}
