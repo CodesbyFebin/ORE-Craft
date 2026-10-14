@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
-"""Source snapshot archiver: Regolith Labs (42), HardhatChad (25), Blueshift (102).
+"""Source snapshot archiver: Regolith Labs (42), HardhatChad (25), Blueshift (102), Community (56).
 Clones fresh heads with shallow history; records hashes; leaves upstream licenses intact.
 """
 import argparse, datetime, hashlib, json, os, pathlib, subprocess, sys, zipfile
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 p=argparse.ArgumentParser()
-p.add_argument('--collections',nargs='+',choices=['regolith','hardhat','blueshift'],default=['regolith','hardhat','blueshift'])
+p.add_argument('--collections',nargs='+',choices=['regolith','hardhat','blueshift','community'],default=['regolith','hardhat','blueshift','community'])
 p.add_argument('--include-large',action='store_true',help='Include repositories >200000 KB (potentially multi-GB)')
 p.add_argument('--max-repos',type=int,default=0,help='Optional limit for smoke tests')
 args=p.parse_args()
-mapping={'regolith':'manifest.json','hardhat':'hardhatchad-manifest.json','blueshift':'blueshift-manifest.json'}
+mapping={'regolith':'manifest.json','hardhat':'hardhatchad-manifest.json','blueshift':'blueshift-manifest.json','community':'community-manifest.json'}
 sources=[]
 for collection in args.collections:
  for r in json.loads((ROOT/mapping[collection]).read_text())['sources']:
