@@ -1,0 +1,300 @@
+{
+  "project": "ORE-MINECRAFT",
+  "source_count": 42,
+  "sources": [
+    {
+      "name": "ore",
+      "owner": "regolith-labs",
+      "category": "01-core-protocol",
+      "clone_url": "https://github.com/regolith-labs/ore.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-mint",
+      "owner": "regolith-labs",
+      "category": "01-core-protocol",
+      "clone_url": "https://github.com/regolith-labs/ore-mint.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "entropy",
+      "owner": "regolith-labs",
+      "category": "01-core-protocol",
+      "clone_url": "https://github.com/regolith-labs/entropy.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-stake",
+      "owner": "regolith-labs",
+      "category": "01-core-protocol",
+      "clone_url": "https://github.com/regolith-labs/ore-stake.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-lst",
+      "owner": "regolith-labs",
+      "category": "01-core-protocol",
+      "clone_url": "https://github.com/regolith-labs/ore-lst.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-burn",
+      "owner": "regolith-labs",
+      "category": "01-core-protocol",
+      "clone_url": "https://github.com/regolith-labs/ore-burn.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-boost",
+      "owner": "regolith-labs",
+      "category": "01-core-protocol",
+      "clone_url": "https://github.com/regolith-labs/ore-boost.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-boost-rebase-worker",
+      "owner": "regolith-labs",
+      "category": "01-core-protocol",
+      "clone_url": "https://github.com/regolith-labs/ore-boost-rebase-worker.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "grams",
+      "owner": "regolith-labs",
+      "category": "01-core-protocol",
+      "clone_url": "https://github.com/regolith-labs/grams.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-starter-app",
+      "owner": "regolith-labs",
+      "category": "02-mining-clients-pools",
+      "clone_url": "https://github.com/regolith-labs/ore-starter-app.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-app",
+      "owner": "regolith-labs",
+      "category": "02-mining-clients-pools",
+      "clone_url": "https://github.com/regolith-labs/ore-app.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-cli",
+      "owner": "regolith-labs",
+      "category": "02-mining-clients-pools",
+      "clone_url": "https://github.com/regolith-labs/ore-cli.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-cli-legacy",
+      "owner": "regolith-labs",
+      "category": "02-mining-clients-pools",
+      "clone_url": "https://github.com/regolith-labs/ore-cli-legacy.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-pool",
+      "owner": "regolith-labs",
+      "category": "02-mining-clients-pools",
+      "clone_url": "https://github.com/regolith-labs/ore-pool.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-pool-private",
+      "owner": "regolith-labs",
+      "category": "02-mining-clients-pools",
+      "clone_url": "https://github.com/regolith-labs/ore-pool-private.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "drillx",
+      "owner": "regolith-labs",
+      "category": "02-mining-clients-pools",
+      "clone_url": "https://github.com/regolith-labs/drillx.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "verus-hash",
+      "owner": "regolith-labs",
+      "category": "02-mining-clients-pools",
+      "clone_url": "https://github.com/regolith-labs/verus-hash.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "verus-cli",
+      "owner": "regolith-labs",
+      "category": "02-mining-clients-pools",
+      "clone_url": "https://github.com/regolith-labs/verus-cli.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-gpu",
+      "owner": "regolith-labs",
+      "category": "02-mining-clients-pools",
+      "clone_url": "https://github.com/regolith-labs/ore-gpu.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "steel",
+      "owner": "regolith-labs",
+      "category": "03-solana-framework-wallets",
+      "clone_url": "https://github.com/regolith-labs/steel.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "steel-book",
+      "owner": "regolith-labs",
+      "category": "03-solana-framework-wallets",
+      "clone_url": "https://github.com/regolith-labs/steel-book.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "solana-mobile",
+      "owner": "regolith-labs",
+      "category": "03-solana-framework-wallets",
+      "clone_url": "https://github.com/regolith-labs/solana-mobile.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "dioxus-wallet-adapter",
+      "owner": "regolith-labs",
+      "category": "03-solana-framework-wallets",
+      "clone_url": "https://github.com/regolith-labs/dioxus-wallet-adapter.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "wallet",
+      "owner": "regolith-labs",
+      "category": "03-solana-framework-wallets",
+      "clone_url": "https://github.com/regolith-labs/wallet.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "solana-playground",
+      "owner": "regolith-labs",
+      "category": "03-solana-framework-wallets",
+      "clone_url": "https://github.com/regolith-labs/solana-playground.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "agave",
+      "owner": "regolith-labs",
+      "category": "03-solana-framework-wallets",
+      "clone_url": "https://github.com/regolith-labs/agave.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "haraka-bpf",
+      "owner": "regolith-labs",
+      "category": "03-solana-framework-wallets",
+      "clone_url": "https://github.com/regolith-labs/haraka-bpf.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "jupiter-swap-api-client",
+      "owner": "regolith-labs",
+      "category": "04-trading-liquidity",
+      "clone_url": "https://github.com/regolith-labs/jupiter-swap-api-client.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "jupiter-dca-sdk",
+      "owner": "regolith-labs",
+      "category": "04-trading-liquidity",
+      "clone_url": "https://github.com/regolith-labs/jupiter-dca-sdk.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "meteora_damm_sdk",
+      "owner": "regolith-labs",
+      "category": "04-trading-liquidity",
+      "clone_url": "https://github.com/regolith-labs/meteora_damm_sdk.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "meteora-dlmm-sdk",
+      "owner": "regolith-labs",
+      "category": "04-trading-liquidity",
+      "clone_url": "https://github.com/regolith-labs/meteora-dlmm-sdk.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "meteora-pools-sdk",
+      "owner": "regolith-labs",
+      "category": "04-trading-liquidity",
+      "clone_url": "https://github.com/regolith-labs/meteora-pools-sdk.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "meteora-vault-sdk",
+      "owner": "regolith-labs",
+      "category": "04-trading-liquidity",
+      "clone_url": "https://github.com/regolith-labs/meteora-vault-sdk.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "kliquidity-sdk",
+      "owner": "regolith-labs",
+      "category": "04-trading-liquidity",
+      "clone_url": "https://github.com/regolith-labs/kliquidity-sdk.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "protobook",
+      "owner": "regolith-labs",
+      "category": "04-trading-liquidity",
+      "clone_url": "https://github.com/regolith-labs/protobook.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "dioxus",
+      "owner": "regolith-labs",
+      "category": "05-app-infrastructure",
+      "clone_url": "https://github.com/regolith-labs/dioxus.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "wry",
+      "owner": "regolith-labs",
+      "category": "05-app-infrastructure",
+      "clone_url": "https://github.com/regolith-labs/wry.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "dioxus-charts",
+      "owner": "regolith-labs",
+      "category": "05-app-infrastructure",
+      "clone_url": "https://github.com/regolith-labs/dioxus-charts.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "geyser-stream",
+      "owner": "regolith-labs",
+      "category": "05-app-infrastructure",
+      "clone_url": "https://github.com/regolith-labs/geyser-stream.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "helius-rust-sdk",
+      "owner": "regolith-labs",
+      "category": "05-app-infrastructure",
+      "clone_url": "https://github.com/regolith-labs/helius-rust-sdk.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "cargo-packager",
+      "owner": "regolith-labs",
+      "category": "05-app-infrastructure",
+      "clone_url": "https://github.com/regolith-labs/cargo-packager.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "oauth1-rs",
+      "owner": "regolith-labs",
+      "category": "05-app-infrastructure",
+      "clone_url": "https://github.com/regolith-labs/oauth1-rs.git",
+      "status": "NOT_CLONED"
+    }
+  ]
+}
