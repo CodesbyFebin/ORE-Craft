@@ -3,9 +3,9 @@ on:
   workflow_dispatch:
     inputs:
       collections:
-        description: "Collections: regolith hardhat blueshift community community (space separated)"
+        description: "Collections: regolith hardhat blueshift community voxel community (space separated)"
         required: true
-        default: "regolith hardhat blueshift community"
+        default: "regolith hardhat blueshift community voxel"
       include_large:
         description: "Clone huge LLVM/Rust/Agave forks too"
         type: boolean
