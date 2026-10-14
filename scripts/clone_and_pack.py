@@ -5,11 +5,11 @@ Clones fresh heads with shallow history; records hashes; leaves upstream license
 import argparse, datetime, hashlib, json, os, pathlib, subprocess, sys, zipfile
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 p=argparse.ArgumentParser()
-p.add_argument('--collections',nargs='+',choices=['regolith','hardhat','blueshift','community'],default=['regolith','hardhat','blueshift','community'])
+p.add_argument('--collections',nargs='+',choices=['regolith','hardhat','blueshift','community','voxel'],default=['regolith','hardhat','blueshift','community'])
 p.add_argument('--include-large',action='store_true',help='Include repositories >200000 KB (potentially multi-GB)')
 p.add_argument('--max-repos',type=int,default=0,help='Optional limit for smoke tests')
 args=p.parse_args()
-mapping={'regolith':'manifest.json','hardhat':'hardhatchad-manifest.json','blueshift':'blueshift-manifest.json','community':'community-manifest.json'}
+mapping={'regolith':'manifest.json','hardhat':'hardhatchad-manifest.json','blueshift':'blueshift-manifest.json','community':'community-manifest.json','voxel':'voxel-manifest.json'}
 sources=[]
 for collection in args.collections:
  for r in json.loads((ROOT/mapping[collection]).read_text())['sources']:
