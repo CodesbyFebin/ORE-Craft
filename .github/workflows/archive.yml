@@ -1,0 +1,20 @@
+name: Archive upstream sources
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: Clone and archive the 42 repositories
+        run: python3 scripts/clone_and_pack.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ORE-MINECRAFT-sources
+          path: |
+            dist/ORE-MINECRAFT-sources.zip
+            dist/provenance.json
+          if-no-files-found: error
