@@ -84,3 +84,10 @@ The fourth collection, `community-manifest.json`, contains **56** repositories: 
 **Total:** 225 source references across four manifests. These are source candidates, not an audited, integrated miner. **Security:** third-party miners/containers may execute untrusted commands or handle wallet secrets; inspect all scripts, dependencies, and licenses before running. Never inject mainnet private keys into imported tools. ORE v4 Deploy, Claim and Checkpoint remain disabled in the EdgeORE game until their canonical layouts and verification gates pass.
 
 To archive just the community collection, run `python3 scripts/clone_and_pack.py --collections community`. The GitHub Actions workflow offers the same collection selector. Current workspace is a manifest/bootstrap; cloned sources are generated only when an archive run succeeds.
+
+
+## Voxel / Minecraft gameplay source references
+
+`voxel-manifest.json` adds 24 curated repositories sourced from GitHub searches for voxel minecraft, voxel engine, and minecraft clone. They are catalogued by web gameplay, engine/world rendering, server/world generation, and game references. These are code research references only: evaluate license compatibility, commit provenance, maintenance, security and game integration before reuse. The total across five collections is **249 repository references** (not cloned/merged project files).
+
+Archive voxel sources separately: `python3 scripts/clone_and_pack.py --collections voxel`. The manual Actions archive workflow also accepts `voxel` in its collection selection. Be aware that upstream repositories may contain large assets; running all collections together may exceed runner limits. The EdgeORE financial layer remains disabled.
