@@ -60,3 +60,18 @@ Source-archive workspace for **42 Regolith Labs repositories**. This bootstrap c
 - [oauth1-rs](https://github.com/regolith-labs/oauth1-rs)
 
 See `docs/blueshift-optional.md` for separately scoped Blueshift projects. Upstream licenses and contributions remain with their owners. No bundled project is automatically safe for wallet spending or deploy operations.
+
+
+## Extended source collections
+
+- **Regolith Labs:** 42 repository entries in `manifest.json`.
+- **HardhatChad:** 25 repository entries in `hardhatchad-manifest.json`.
+- **Blueshift:** 102 repository entries in `blueshift-manifest.json`.
+
+Total **169 repository references**, before deduplication of upstream/fork relationships. Identical names from different owners remain distinct source snapshots; the archive does not falsely combine their contents. These are manifests only until cloned.
+
+### Obtain the source archive
+
+Open **Actions → Archive categorized upstream sources → Run workflow**. Default selection clones all three collections, skipping three particularly large Blueshift toolchain/validator forks. Select collections individually as needed. Retrieve the generated workflow artifact `ORE-MINECRAFT-source-archive` after successful completion.
+
+Alternatively run `python3 scripts/clone_and_pack.py --collections regolith hardhat blueshift` on a GitHub-connected machine. Use `--include-large` only with adequate disk/time capacity. Each clone is shallow, keeps upstream LICENSE files and records its checked-out SHA in `provenance.json`. No single binary combines these projects and no ORE financial operation is enabled by this archive.
