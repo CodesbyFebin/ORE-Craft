@@ -1,0 +1,181 @@
+{
+  "owner": "HardhatChad",
+  "count": 25,
+  "sources": [
+    {
+      "name": "helius-rpc-proxy",
+      "owner": "HardhatChad",
+      "category": "07-hardhatchad-solana-infrastructure",
+      "clone_url": "https://github.com/HardhatChad/helius-rpc-proxy.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "solana-program-library",
+      "owner": "HardhatChad",
+      "category": "07-hardhatchad-solana-infrastructure",
+      "clone_url": "https://github.com/HardhatChad/solana-program-library.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "txfetch",
+      "owner": "HardhatChad",
+      "category": "07-hardhatchad-solana-infrastructure",
+      "clone_url": "https://github.com/HardhatChad/txfetch.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "perpetuals",
+      "owner": "HardhatChad",
+      "category": "08-hardhatchad-defi-tools",
+      "clone_url": "https://github.com/HardhatChad/perpetuals.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "pqcrypto",
+      "owner": "HardhatChad",
+      "category": "06-hardhatchad-security-privacy",
+      "clone_url": "https://github.com/HardhatChad/pqcrypto.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "solana-nostd-entrypoint",
+      "owner": "HardhatChad",
+      "category": "07-hardhatchad-solana-infrastructure",
+      "clone_url": "https://github.com/HardhatChad/solana-nostd-entrypoint.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "privacy-cash",
+      "owner": "HardhatChad",
+      "category": "06-hardhatchad-security-privacy",
+      "clone_url": "https://github.com/HardhatChad/privacy-cash.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "vdf",
+      "owner": "HardhatChad",
+      "category": "06-hardhatchad-security-privacy",
+      "clone_url": "https://github.com/HardhatChad/vdf.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "shannon-demon",
+      "owner": "HardhatChad",
+      "category": "09-hardhatchad-research-apps",
+      "clone_url": "https://github.com/HardhatChad/shannon-demon.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "jupiter-swap-api-client",
+      "owner": "HardhatChad",
+      "category": "08-hardhatchad-defi-tools",
+      "clone_url": "https://github.com/HardhatChad/jupiter-swap-api-client.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "crypto-ecosystems",
+      "owner": "HardhatChad",
+      "category": "09-hardhatchad-research-apps",
+      "clone_url": "https://github.com/HardhatChad/crypto-ecosystems.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "solana-winternitz-vault",
+      "owner": "HardhatChad",
+      "category": "06-hardhatchad-security-privacy",
+      "clone_url": "https://github.com/HardhatChad/solana-winternitz-vault.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "keccak256-metal",
+      "owner": "HardhatChad",
+      "category": "06-hardhatchad-security-privacy",
+      "clone_url": "https://github.com/HardhatChad/keccak256-metal.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "cloak",
+      "owner": "HardhatChad",
+      "category": "06-hardhatchad-security-privacy",
+      "clone_url": "https://github.com/HardhatChad/cloak.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "multigrind",
+      "owner": "HardhatChad",
+      "category": "08-hardhatchad-defi-tools",
+      "clone_url": "https://github.com/HardhatChad/multigrind.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "fastcrypto",
+      "owner": "HardhatChad",
+      "category": "06-hardhatchad-security-privacy",
+      "clone_url": "https://github.com/HardhatChad/fastcrypto.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "solana-playground",
+      "owner": "HardhatChad",
+      "category": "07-hardhatchad-solana-infrastructure",
+      "clone_url": "https://github.com/HardhatChad/solana-playground.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "vector",
+      "owner": "HardhatChad",
+      "category": "06-hardhatchad-security-privacy",
+      "clone_url": "https://github.com/HardhatChad/vector.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "dioxus-starter-app",
+      "owner": "HardhatChad",
+      "category": "09-hardhatchad-research-apps",
+      "clone_url": "https://github.com/HardhatChad/dioxus-starter-app.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "agave",
+      "owner": "HardhatChad",
+      "category": "07-hardhatchad-solana-infrastructure",
+      "clone_url": "https://github.com/HardhatChad/agave.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "explorer",
+      "owner": "HardhatChad",
+      "category": "07-hardhatchad-solana-infrastructure",
+      "clone_url": "https://github.com/HardhatChad/explorer.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "tokens",
+      "owner": "HardhatChad",
+      "category": "07-hardhatchad-solana-infrastructure",
+      "clone_url": "https://github.com/HardhatChad/tokens.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "coherence-lattice-alpha",
+      "owner": "HardhatChad",
+      "category": "09-hardhatchad-research-apps",
+      "clone_url": "https://github.com/HardhatChad/coherence-lattice-alpha.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "amplitude",
+      "owner": "HardhatChad",
+      "category": "09-hardhatchad-research-apps",
+      "clone_url": "https://github.com/HardhatChad/amplitude.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "rNdN",
+      "owner": "HardhatChad",
+      "category": "09-hardhatchad-research-apps",
+      "clone_url": "https://github.com/HardhatChad/rNdN.git",
+      "status": "NOT_CLONED"
+    }
+  ]
+}
