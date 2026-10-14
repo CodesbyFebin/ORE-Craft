@@ -75,3 +75,12 @@ Total **169 repository references**, before deduplication of upstream/fork relat
 Open **Actions → Archive categorized upstream sources → Run workflow**. Default selection clones all three collections, skipping three particularly large Blueshift toolchain/validator forks. Select collections individually as needed. Retrieve the generated workflow artifact `ORE-MINECRAFT-source-archive` after successful completion.
 
 Alternatively run `python3 scripts/clone_and_pack.py --collections regolith hardhat blueshift` on a GitHub-connected machine. Use `--include-large` only with adequate disk/time capacity. Each clone is shallow, keeps upstream LICENSE files and records its checked-out SHA in `provenance.json`. No single binary combines these projects and no ORE financial operation is enabled by this archive.
+
+
+## Community miners and related ecosystem sources
+
+The fourth collection, `community-manifest.json`, contains **56** repositories: Bifrost-Technologies (41), Cissoko420 (12), and the individual repositories `tonyke-bot/ore-miner`, `0xrsydn/ore-miner`, and `f3n1b00t/ore-containers` (3). The named Bifrost/Cissoko miner repositories are already included in their respective account inventories and are not double counted.
+
+**Total:** 225 source references across four manifests. These are source candidates, not an audited, integrated miner. **Security:** third-party miners/containers may execute untrusted commands or handle wallet secrets; inspect all scripts, dependencies, and licenses before running. Never inject mainnet private keys into imported tools. ORE v4 Deploy, Claim and Checkpoint remain disabled in the EdgeORE game until their canonical layouts and verification gates pass.
+
+To archive just the community collection, run `python3 scripts/clone_and_pack.py --collections community`. The GitHub Actions workflow offers the same collection selector. Current workspace is a manifest/bootstrap; cloned sources are generated only when an archive run succeeds.
