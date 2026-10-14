@@ -1,0 +1,505 @@
+{
+  "collection": "community",
+  "description": "Community ORE miners plus complete Bifrost-Technologies and Cissoko420 public repository inventories",
+  "count": 56,
+  "sources": [
+    {
+      "name": "Solana-Unreal-SDK",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Solana-Unreal-SDK.git",
+      "status": "NOT_CLONED",
+      "size_kb": 18168678,
+      "default_branch": "main"
+    },
+    {
+      "name": "Philosophers-Stone",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Philosophers-Stone.git",
+      "status": "NOT_CLONED",
+      "size_kb": 1056,
+      "default_branch": "master"
+    },
+    {
+      "name": "Bifrost-Centurio",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Bifrost-Centurio.git",
+      "status": "NOT_CLONED",
+      "size_kb": 6105,
+      "default_branch": "main"
+    },
+    {
+      "name": "Holographic-AI-Core",
+      "owner": "Bifrost-Technologies",
+      "category": "13-ore-pool-miners",
+      "clone_url": "https://github.com/Bifrost-Technologies/Holographic-AI-Core.git",
+      "status": "NOT_CLONED",
+      "size_kb": 254417,
+      "default_branch": "main"
+    },
+    {
+      "name": "Solnet.JupiterPerps",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Solnet.JupiterPerps.git",
+      "status": "NOT_CLONED",
+      "size_kb": 53,
+      "default_branch": "main"
+    },
+    {
+      "name": "Raydium-Trading-Bot-Template",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Raydium-Trading-Bot-Template.git",
+      "status": "NOT_CLONED",
+      "size_kb": 139,
+      "default_branch": "main"
+    },
+    {
+      "name": "ore-pool-miner",
+      "owner": "Bifrost-Technologies",
+      "category": "13-ore-pool-miners",
+      "clone_url": "https://github.com/Bifrost-Technologies/ore-pool-miner.git",
+      "status": "NOT_CLONED",
+      "size_kb": 547,
+      "default_branch": "main"
+    },
+    {
+      "name": "Solnet.Pumpfun",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Solnet.Pumpfun.git",
+      "status": "NOT_CLONED",
+      "size_kb": 14,
+      "default_branch": "main"
+    },
+    {
+      "name": "Solnet.Raydium",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Solnet.Raydium.git",
+      "status": "NOT_CLONED",
+      "size_kb": 24,
+      "default_branch": "main"
+    },
+    {
+      "name": "Solnet.JupiterSwap",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Solnet.JupiterSwap.git",
+      "status": "NOT_CLONED",
+      "size_kb": 22,
+      "default_branch": "main"
+    },
+    {
+      "name": "Solnet.Moonshot",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Solnet.Moonshot.git",
+      "status": "NOT_CLONED",
+      "size_kb": 21,
+      "default_branch": "main"
+    },
+    {
+      "name": "Link-Stream",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Link-Stream.git",
+      "status": "NOT_CLONED",
+      "size_kb": 55,
+      "default_branch": "master"
+    },
+    {
+      "name": "Solnet.Ore",
+      "owner": "Bifrost-Technologies",
+      "category": "13-ore-pool-miners",
+      "clone_url": "https://github.com/Bifrost-Technologies/Solnet.Ore.git",
+      "status": "NOT_CLONED",
+      "size_kb": 35,
+      "default_branch": "main"
+    },
+    {
+      "name": "Tranquility",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Tranquility.git",
+      "status": "NOT_CLONED",
+      "size_kb": 16346,
+      "default_branch": "master"
+    },
+    {
+      "name": "Solnet.Quantum",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Solnet.Quantum.git",
+      "status": "NOT_CLONED",
+      "size_kb": 13,
+      "default_branch": "main"
+    },
+    {
+      "name": "Crystals",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Crystals.git",
+      "status": "NOT_CLONED",
+      "size_kb": 55,
+      "default_branch": "main"
+    },
+    {
+      "name": "PumpfunTradingApp",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/PumpfunTradingApp.git",
+      "status": "NOT_CLONED",
+      "size_kb": 222,
+      "default_branch": "main"
+    },
+    {
+      "name": "Frontiers-OPOS",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Frontiers-OPOS.git",
+      "status": "NOT_CLONED",
+      "size_kb": 8,
+      "default_branch": "main"
+    },
+    {
+      "name": "Bifrost.Solnet",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Bifrost.Solnet.git",
+      "status": "NOT_CLONED",
+      "size_kb": 2526,
+      "default_branch": "master"
+    },
+    {
+      "name": "Frontier-SDK",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Frontier-SDK.git",
+      "status": "NOT_CLONED",
+      "size_kb": 61,
+      "default_branch": "main"
+    },
+    {
+      "name": "Lifespark.Genetics",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Lifespark.Genetics.git",
+      "status": "NOT_CLONED",
+      "size_kb": 289,
+      "default_branch": "main"
+    },
+    {
+      "name": "Tranquility-Lite",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Tranquility-Lite.git",
+      "status": "NOT_CLONED",
+      "size_kb": 5514,
+      "default_branch": "main"
+    },
+    {
+      "name": "Bifrost.Security",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Bifrost.Security.git",
+      "status": "NOT_CLONED",
+      "size_kb": 100,
+      "default_branch": "main"
+    },
+    {
+      "name": "Bifrost-AI-SDK",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Bifrost-AI-SDK.git",
+      "status": "NOT_CLONED",
+      "size_kb": 14,
+      "default_branch": "main"
+    },
+    {
+      "name": "Extinction",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Extinction.git",
+      "status": "NOT_CLONED",
+      "size_kb": 0,
+      "default_branch": "main"
+    },
+    {
+      "name": "Prometheus",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Prometheus.git",
+      "status": "NOT_CLONED",
+      "size_kb": 5030,
+      "default_branch": "main"
+    },
+    {
+      "name": "BitNet",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/BitNet.git",
+      "status": "NOT_CLONED",
+      "size_kb": 2939,
+      "default_branch": "main"
+    },
+    {
+      "name": "aurora",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/aurora.git",
+      "status": "NOT_CLONED",
+      "size_kb": 9547,
+      "default_branch": "main"
+    },
+    {
+      "name": "BitNet-pytorch",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/BitNet-pytorch.git",
+      "status": "NOT_CLONED",
+      "size_kb": 38253,
+      "default_branch": "main"
+    },
+    {
+      "name": "Solnet.Metaplex",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Solnet.Metaplex.git",
+      "status": "NOT_CLONED",
+      "size_kb": 1767,
+      "default_branch": "master"
+    },
+    {
+      "name": "Solana-Bitnet-Oracle",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Solana-Bitnet-Oracle.git",
+      "status": "NOT_CLONED",
+      "size_kb": 34,
+      "default_branch": "main"
+    },
+    {
+      "name": "SolanaTools",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/SolanaTools.git",
+      "status": "NOT_CLONED",
+      "size_kb": 81,
+      "default_branch": "main"
+    },
+    {
+      "name": "Mirage-SPFA",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Mirage-SPFA.git",
+      "status": "NOT_CLONED",
+      "size_kb": 60,
+      "default_branch": "main"
+    },
+    {
+      "name": "llama.cpp",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/llama.cpp.git",
+      "status": "NOT_CLONED",
+      "size_kb": 88319,
+      "default_branch": "master"
+    },
+    {
+      "name": "bitnet_cpp_canister",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/bitnet_cpp_canister.git",
+      "status": "NOT_CLONED",
+      "size_kb": 31667,
+      "default_branch": "main"
+    },
+    {
+      "name": "bioemu",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/bioemu.git",
+      "status": "NOT_CLONED",
+      "size_kb": 5296,
+      "default_branch": "main"
+    },
+    {
+      "name": "Magma",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Magma.git",
+      "status": "NOT_CLONED",
+      "size_kb": 41621,
+      "default_branch": "main"
+    },
+    {
+      "name": ".github",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/.github.git",
+      "status": "NOT_CLONED",
+      "size_kb": 40,
+      "default_branch": "main"
+    },
+    {
+      "name": "solana-gym-env",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/solana-gym-env.git",
+      "status": "NOT_CLONED",
+      "size_kb": 8101,
+      "default_branch": "master"
+    },
+    {
+      "name": "crystals-dilithium",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/crystals-dilithium.git",
+      "status": "NOT_CLONED",
+      "size_kb": 488,
+      "default_branch": "master"
+    },
+    {
+      "name": "Kyber",
+      "owner": "Bifrost-Technologies",
+      "category": "14-bifrost-ecosystem",
+      "clone_url": "https://github.com/Bifrost-Technologies/Kyber.git",
+      "status": "NOT_CLONED",
+      "size_kb": 870,
+      "default_branch": "main"
+    },
+    {
+      "name": "ore-cli-scripts",
+      "owner": "Cissoko420",
+      "category": "15-ore-scripts",
+      "clone_url": "https://github.com/Cissoko420/ore-cli-scripts.git",
+      "status": "NOT_CLONED",
+      "size_kb": 36,
+      "default_branch": "main"
+    },
+    {
+      "name": "Myriad-Loop-Bot",
+      "owner": "Cissoko420",
+      "category": "16-cissoko-tools",
+      "clone_url": "https://github.com/Cissoko420/Myriad-Loop-Bot.git",
+      "status": "NOT_CLONED",
+      "size_kb": 6829,
+      "default_branch": "main"
+    },
+    {
+      "name": "Solana-Utils",
+      "owner": "Cissoko420",
+      "category": "16-cissoko-tools",
+      "clone_url": "https://github.com/Cissoko420/Solana-Utils.git",
+      "status": "NOT_CLONED",
+      "size_kb": 12,
+      "default_branch": "main"
+    },
+    {
+      "name": "Nothing-4-Something",
+      "owner": "Cissoko420",
+      "category": "16-cissoko-tools",
+      "clone_url": "https://github.com/Cissoko420/Nothing-4-Something.git",
+      "status": "NOT_CLONED",
+      "size_kb": 277,
+      "default_branch": "main"
+    },
+    {
+      "name": "Solana-Volume-Bot",
+      "owner": "Cissoko420",
+      "category": "16-cissoko-tools",
+      "clone_url": "https://github.com/Cissoko420/Solana-Volume-Bot.git",
+      "status": "NOT_CLONED",
+      "size_kb": 6,
+      "default_branch": "main"
+    },
+    {
+      "name": "Check-Solana-Wallet",
+      "owner": "Cissoko420",
+      "category": "16-cissoko-tools",
+      "clone_url": "https://github.com/Cissoko420/Check-Solana-Wallet.git",
+      "status": "NOT_CLONED",
+      "size_kb": 9836,
+      "default_branch": "main"
+    },
+    {
+      "name": "Esp32D-Unlock-Door",
+      "owner": "Cissoko420",
+      "category": "16-cissoko-tools",
+      "clone_url": "https://github.com/Cissoko420/Esp32D-Unlock-Door.git",
+      "status": "NOT_CLONED",
+      "size_kb": 49,
+      "default_branch": "main"
+    },
+    {
+      "name": "Cyberz-Whitepaper",
+      "owner": "Cissoko420",
+      "category": "16-cissoko-tools",
+      "clone_url": "https://github.com/Cissoko420/Cyberz-Whitepaper.git",
+      "status": "NOT_CLONED",
+      "size_kb": 83352,
+      "default_branch": "main"
+    },
+    {
+      "name": "University-Programming-Work",
+      "owner": "Cissoko420",
+      "category": "16-cissoko-tools",
+      "clone_url": "https://github.com/Cissoko420/University-Programming-Work.git",
+      "status": "NOT_CLONED",
+      "size_kb": 1050,
+      "default_branch": "main"
+    },
+    {
+      "name": "NFT-Buy-MagicEden-POC",
+      "owner": "Cissoko420",
+      "category": "16-cissoko-tools",
+      "clone_url": "https://github.com/Cissoko420/NFT-Buy-MagicEden-POC.git",
+      "status": "NOT_CLONED",
+      "size_kb": 4677,
+      "default_branch": "main"
+    },
+    {
+      "name": "SolDrugz",
+      "owner": "Cissoko420",
+      "category": "16-cissoko-tools",
+      "clone_url": "https://github.com/Cissoko420/SolDrugz.git",
+      "status": "NOT_CLONED",
+      "size_kb": 79168,
+      "default_branch": "main"
+    },
+    {
+      "name": "Discord-Web3-Utils",
+      "owner": "Cissoko420",
+      "category": "16-cissoko-tools",
+      "clone_url": "https://github.com/Cissoko420/Discord-Web3-Utils.git",
+      "status": "NOT_CLONED",
+      "size_kb": 130,
+      "default_branch": "main"
+    },
+    {
+      "name": "ore-miner",
+      "owner": "tonyke-bot",
+      "category": "13-ore-pool-miners",
+      "clone_url": "https://github.com/tonyke-bot/ore-miner.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-miner",
+      "owner": "0xrsydn",
+      "category": "13-ore-pool-miners",
+      "clone_url": "https://github.com/0xrsydn/ore-miner.git",
+      "status": "NOT_CLONED"
+    },
+    {
+      "name": "ore-containers",
+      "owner": "f3n1b00t",
+      "category": "13-ore-pool-miners",
+      "clone_url": "https://github.com/f3n1b00t/ore-containers.git",
+      "status": "NOT_CLONED"
+    }
+  ]
+}
