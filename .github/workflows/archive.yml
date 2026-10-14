@@ -1,20 +1,37 @@
-name: Archive upstream sources
+name: Archive categorized upstream sources
 on:
   workflow_dispatch:
+    inputs:
+      collections:
+        description: "Collections: regolith hardhat blueshift (space separated)"
+        required: true
+        default: "regolith hardhat blueshift"
+      include_large:
+        description: "Clone huge LLVM/Rust/Agave forks too"
+        type: boolean
+        required: true
+        default: false
 permissions:
   contents: read
 jobs:
   snapshot:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
-      - name: Clone and archive the 42 repositories
-        run: python3 scripts/clone_and_pack.py
+      - name: Fetch source snapshots
+        env:
+          COLLECTIONS: ${{ inputs.collections }}
+          INCLUDE_LARGE: ${{ inputs.include_large }}
+        run: |
+          FLAGS=""
+          if [ "$INCLUDE_LARGE" = "true" ]; then FLAGS="--include-large"; fi
+          python3 scripts/clone_and_pack.py --collections $COLLECTIONS $FLAGS
       - uses: actions/upload-artifact@v4
         with:
-          name: ORE-MINECRAFT-sources
+          name: ORE-MINECRAFT-source-archive
           path: |
             dist/ORE-MINECRAFT-sources.zip
             dist/provenance.json
           if-no-files-found: error
+          retention-days: 7
