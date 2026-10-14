@@ -1,0 +1,1027 @@
+{
+  "owner": "blueshift-gg",
+  "count": 102,
+  "note": "Full organization inventory; large repositories require selective archive execution",
+  "sources": [
+    {
+      "name": "doppler",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/doppler.git",
+      "status": "NOT_CLONED",
+      "size_kb": 399,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "quasar",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/quasar.git",
+      "status": "NOT_CLONED",
+      "size_kb": 6732,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "sbpf",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/sbpf.git",
+      "status": "NOT_CLONED",
+      "size_kb": 2478,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-winternitz-vault",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/solana-winternitz-vault.git",
+      "status": "NOT_CLONED",
+      "size_kb": 75,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "blueshift-dashboard",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/blueshift-dashboard.git",
+      "status": "NOT_CLONED",
+      "size_kb": 21710,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "awesome-sbpf",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/awesome-sbpf.git",
+      "status": "NOT_CLONED",
+      "size_kb": 12,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "beethoven",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/beethoven.git",
+      "status": "NOT_CLONED",
+      "size_kb": 5463,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "vector",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/vector.git",
+      "status": "NOT_CLONED",
+      "size_kb": 1393,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "sbpf-linker",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/sbpf-linker.git",
+      "status": "NOT_CLONED",
+      "size_kb": 370,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "Scilla",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/Scilla.git",
+      "status": "NOT_CLONED",
+      "size_kb": 316,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "xark",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/xark.git",
+      "status": "NOT_CLONED",
+      "size_kb": 6955,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-secp256k1",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/solana-secp256k1.git",
+      "status": "NOT_CLONED",
+      "size_kb": 94,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "quasar-svm",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/quasar-svm.git",
+      "status": "NOT_CLONED",
+      "size_kb": 499,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "doppler-asm",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/doppler-asm.git",
+      "status": "NOT_CLONED",
+      "size_kb": 33,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "upstream-pinocchio-escrow",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/upstream-pinocchio-escrow.git",
+      "status": "NOT_CLONED",
+      "size_kb": 175,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "sbpf-xyz",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/sbpf-xyz.git",
+      "status": "NOT_CLONED",
+      "size_kb": 2093,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "pzstd",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/pzstd.git",
+      "status": "NOT_CLONED",
+      "size_kb": 64,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "program-sync",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/program-sync.git",
+      "status": "NOT_CLONED",
+      "size_kb": 110,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-secp256k1-ecdsa",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/solana-secp256k1-ecdsa.git",
+      "status": "NOT_CLONED",
+      "size_kb": 11,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-awesome",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-awesome.git",
+      "status": "NOT_CLONED",
+      "size_kb": 192,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-yellowstone-grpc-mock",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-yellowstone-grpc-mock.git",
+      "status": "NOT_CLONED",
+      "size_kb": 59,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "svm-unit-test",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/svm-unit-test.git",
+      "status": "NOT_CLONED",
+      "size_kb": 91,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-ecvrf",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/solana-ecvrf.git",
+      "status": "NOT_CLONED",
+      "size_kb": 56,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "doppler-keygen",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/doppler-keygen.git",
+      "status": "NOT_CLONED",
+      "size_kb": 36,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-upstream-bpf-template",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-upstream-bpf-template.git",
+      "status": "NOT_CLONED",
+      "size_kb": 6,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-falcon512",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/solana-falcon512.git",
+      "status": "NOT_CLONED",
+      "size_kb": 371,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "pinocchio-bpf-starter",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/pinocchio-bpf-starter.git",
+      "status": "NOT_CLONED",
+      "size_kb": 3,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "parallax",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/parallax.git",
+      "status": "NOT_CLONED",
+      "size_kb": 825,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-secp256k1-schnorr",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/solana-secp256k1-schnorr.git",
+      "status": "NOT_CLONED",
+      "size_kb": 37,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-nostd-secp256k1-recover",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-nostd-secp256k1-recover.git",
+      "status": "NOT_CLONED",
+      "size_kb": 15,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-blockhash-cache",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/solana-blockhash-cache.git",
+      "status": "NOT_CLONED",
+      "size_kb": 39,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "winterwallet",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/winterwallet.git",
+      "status": "NOT_CLONED",
+      "size_kb": 176,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "blueshift-agentic-hackathon-sample-agent",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/blueshift-agentic-hackathon-sample-agent.git",
+      "status": "NOT_CLONED",
+      "size_kb": 42,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-nostd-keccak",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-nostd-keccak.git",
+      "status": "NOT_CLONED",
+      "size_kb": 8,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "caliper",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/caliper.git",
+      "status": "NOT_CLONED",
+      "size_kb": 68,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "upstream-pinocchio-hello-world",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/upstream-pinocchio-hello-world.git",
+      "status": "NOT_CLONED",
+      "size_kb": 111,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-pull-program",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-pull-program.git",
+      "status": "NOT_CLONED",
+      "size_kb": 430,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "fanout-client",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/fanout-client.git",
+      "status": "NOT_CLONED",
+      "size_kb": 193,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "hawk512",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/hawk512.git",
+      "status": "NOT_CLONED",
+      "size_kb": 117,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "zeropod",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/zeropod.git",
+      "status": "NOT_CLONED",
+      "size_kb": 179,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "anchor-idl-guard",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/anchor-idl-guard.git",
+      "status": "NOT_CLONED",
+      "size_kb": 11,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "sbpf-asm-mev-guard",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/sbpf-asm-mev-guard.git",
+      "status": "NOT_CLONED",
+      "size_kb": 51,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-ml-dsa",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/solana-ml-dsa.git",
+      "status": "NOT_CLONED",
+      "size_kb": 590,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "cargo-build-sbpf",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/cargo-build-sbpf.git",
+      "status": "NOT_CLONED",
+      "size_kb": 107,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "anchor-amm",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/anchor-amm.git",
+      "status": "NOT_CLONED",
+      "size_kb": 89,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "quasar-docs",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/quasar-docs.git",
+      "status": "NOT_CLONED",
+      "size_kb": 5835,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "rust",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/rust.git",
+      "status": "NOT_CLONED",
+      "size_kb": 957252,
+      "default_branch": "main",
+      "large_upstream": true
+    },
+    {
+      "name": "xark-examples",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/xark-examples.git",
+      "status": "NOT_CLONED",
+      "size_kb": 293,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "anchor-stableswap-amm",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/anchor-stableswap-amm.git",
+      "status": "NOT_CLONED",
+      "size_kb": 51,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "blueshift-stake",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/blueshift-stake.git",
+      "status": "NOT_CLONED",
+      "size_kb": 3015,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "vanity",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/vanity.git",
+      "status": "NOT_CLONED",
+      "size_kb": 223,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-hawk512",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/solana-hawk512.git",
+      "status": "NOT_CLONED",
+      "size_kb": 182,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-hmac-drbg",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/solana-hmac-drbg.git",
+      "status": "NOT_CLONED",
+      "size_kb": 6,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-nostd-alt-bn128",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-nostd-alt-bn128.git",
+      "status": "NOT_CLONED",
+      "size_kb": 33,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-improvement-documents",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-improvement-documents.git",
+      "status": "NOT_CLONED",
+      "size_kb": 856,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "anchor-clamm",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/anchor-clamm.git",
+      "status": "NOT_CLONED",
+      "size_kb": 66,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-nostd-sha256",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-nostd-sha256.git",
+      "status": "NOT_CLONED",
+      "size_kb": 16,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "poseidon2",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/poseidon2.git",
+      "status": "NOT_CLONED",
+      "size_kb": 8,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "pinocchio",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/pinocchio.git",
+      "status": "NOT_CLONED",
+      "size_kb": 598,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-sdk",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/solana-sdk.git",
+      "status": "NOT_CLONED",
+      "size_kb": 7552,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "upstream-u128-fixture",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/upstream-u128-fixture.git",
+      "status": "NOT_CLONED",
+      "size_kb": 15,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-web3.js",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/solana-web3.js.git",
+      "status": "NOT_CLONED",
+      "size_kb": 70662,
+      "default_branch": "v3.x",
+      "large_upstream": false
+    },
+    {
+      "name": "brine-ed25519",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/brine-ed25519.git",
+      "status": "NOT_CLONED",
+      "size_kb": 200,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-winternitz",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/solana-winternitz.git",
+      "status": "NOT_CLONED",
+      "size_kb": 408,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "simd-governance",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/simd-governance.git",
+      "status": "NOT_CLONED",
+      "size_kb": 6409,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "token-acl-gate",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/token-acl-gate.git",
+      "status": "NOT_CLONED",
+      "size_kb": 667,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "anchor",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/anchor.git",
+      "status": "NOT_CLONED",
+      "size_kb": 47885,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-hmac-sha256",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-hmac-sha256.git",
+      "status": "NOT_CLONED",
+      "size_kb": 8,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-shake",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/solana-shake.git",
+      "status": "NOT_CLONED",
+      "size_kb": 384,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-secp256k1-ecdsa-adaptor",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-secp256k1-ecdsa-adaptor.git",
+      "status": "NOT_CLONED",
+      "size_kb": 11,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "metadata",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/metadata.git",
+      "status": "NOT_CLONED",
+      "size_kb": 7390,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "vscode-sbpf-asm",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/vscode-sbpf-asm.git",
+      "status": "NOT_CLONED",
+      "size_kb": 101,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "branding",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/branding.git",
+      "status": "NOT_CLONED",
+      "size_kb": 416,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "llvm-project",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/llvm-project.git",
+      "status": "NOT_CLONED",
+      "size_kb": 3392562,
+      "default_branch": "landing-page",
+      "large_upstream": true
+    },
+    {
+      "name": "token-extension-examples",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/token-extension-examples.git",
+      "status": "NOT_CLONED",
+      "size_kb": 40,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "token-2022",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/token-2022.git",
+      "status": "NOT_CLONED",
+      "size_kb": 17014,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "static-sysvars",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/static-sysvars.git",
+      "status": "NOT_CLONED",
+      "size_kb": 28,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "github-actions",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/github-actions.git",
+      "status": "NOT_CLONED",
+      "size_kb": 3,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "abiv2",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/abiv2.git",
+      "status": "NOT_CLONED",
+      "size_kb": 328,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "rust-analyzer",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/rust-analyzer.git",
+      "status": "NOT_CLONED",
+      "size_kb": 100776,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "explorer",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/explorer.git",
+      "status": "NOT_CLONED",
+      "size_kb": 29122,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-compiler-builtins",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-compiler-builtins.git",
+      "status": "NOT_CLONED",
+      "size_kb": 61,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-vault-program",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-vault-program.git",
+      "status": "NOT_CLONED",
+      "size_kb": 296,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "token-acl",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/token-acl.git",
+      "status": "NOT_CLONED",
+      "size_kb": 734,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "xark-landing",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/xark-landing.git",
+      "status": "NOT_CLONED",
+      "size_kb": 4373,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-rfc6979",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-rfc6979.git",
+      "status": "NOT_CLONED",
+      "size_kb": 9,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "vscode-sbpf-toolkit",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/vscode-sbpf-toolkit.git",
+      "status": "NOT_CLONED",
+      "size_kb": 131,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "wallet-adapter",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/wallet-adapter.git",
+      "status": "NOT_CLONED",
+      "size_kb": 92664,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-poseidon2",
+      "owner": "blueshift-gg",
+      "category": "10-blueshift-cryptography",
+      "clone_url": "https://github.com/blueshift-gg/solana-poseidon2.git",
+      "status": "NOT_CLONED",
+      "size_kb": 166,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "hawk512-ts",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/hawk512-ts.git",
+      "status": "NOT_CLONED",
+      "size_kb": 114,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-program-stake",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-program-stake.git",
+      "status": "NOT_CLONED",
+      "size_kb": 1518,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "damm-v2",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/damm-v2.git",
+      "status": "NOT_CLONED",
+      "size_kb": 1006,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "codama-rs",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/codama-rs.git",
+      "status": "NOT_CLONED",
+      "size_kb": 1472,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "u128-intrinsics",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/u128-intrinsics.git",
+      "status": "NOT_CLONED",
+      "size_kb": 63,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "agave",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/agave.git",
+      "status": "NOT_CLONED",
+      "size_kb": 449854,
+      "default_branch": "master",
+      "large_upstream": true
+    },
+    {
+      "name": "wincode",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/wincode.git",
+      "status": "NOT_CLONED",
+      "size_kb": 1826,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-sbpf",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/solana-sbpf.git",
+      "status": "NOT_CLONED",
+      "size_kb": 3154,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "solana-secp256k1-schnorr-adaptor",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/solana-secp256k1-schnorr-adaptor.git",
+      "status": "NOT_CLONED",
+      "size_kb": 11,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "alpenglow",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/alpenglow.git",
+      "status": "NOT_CLONED",
+      "size_kb": 2392,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "kit",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/kit.git",
+      "status": "NOT_CLONED",
+      "size_kb": 89980,
+      "default_branch": "main",
+      "large_upstream": false
+    },
+    {
+      "name": "bpf.wtf",
+      "owner": "blueshift-gg",
+      "category": "12-blueshift-research-examples",
+      "clone_url": "https://github.com/blueshift-gg/bpf.wtf.git",
+      "status": "NOT_CLONED",
+      "size_kb": 86,
+      "default_branch": "master",
+      "large_upstream": false
+    },
+    {
+      "name": "mollusk",
+      "owner": "blueshift-gg",
+      "category": "11-blueshift-svm-wallets",
+      "clone_url": "https://github.com/blueshift-gg/mollusk.git",
+      "status": "NOT_CLONED",
+      "size_kb": 1337,
+      "default_branch": "main",
+      "large_upstream": false
+    }
+  ]
+}
